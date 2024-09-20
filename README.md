@@ -2,6 +2,8 @@
 
 I am Moguloju Sai, Data Science Engineer.
 
+![image alt](https://github.com/Saimoguloju/Social-Media-Analysis/blob/master/Regression%20Plot%20of%20Age%20and%20Total%20Likes.png)
+
 You can contact me on:
 1. [Linkedin](https://www.linkedin.com/in/moguloju-sai-2b060b228)
 2. [X.com](https://twitter.com/MogulojuSai2)
